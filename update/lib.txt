@@ -1,0 +1,5 @@
+ini adalah link untuk mencari cdn library sesuai keinginan
+https://cdnjs.com/libraries
+
+ini libray untuk qr
+https://cdnjs.com/libraries/qrious
