@@ -43,3 +43,7 @@ button:hover {
 canvas {
   margin: 20px;
 }
+
+.hidden{
+  display: none;
+}

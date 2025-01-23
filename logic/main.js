@@ -6,4 +6,5 @@ document.getElementById('generateBtn').addEventListener('click', function() {
       value: inputText,
       size: 200
   });
+  qrCanvas.classList.remove('hidden');
 });
