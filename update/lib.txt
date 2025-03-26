@@ -3,3 +3,8 @@ https://cdnjs.com/libraries
 
 ini libray untuk qr
 https://cdnjs.com/libraries/qrious
+
+Documentasi :
+https://github.com/neocotic/qrious 
+
+https://www.getsircl.com/Doc/v2/QRious
